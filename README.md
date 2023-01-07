@@ -1,5 +1,5 @@
 # 💫 About Me:
-Soy desarrollador web con manejo de tecnologías como React y NextJS.  Analista de sistemas graduado en la Facultad de Ciencia y Tecnología UADER. Amante de leer, estudiar y enfrentarme a nuevos proyectos constantemente.
+Soy desarrollador web con manejo de tecnologías como React y NextJS.  Analista de sistemas graduado en la Facultad de Ciencia y Tecnología UADER. Programo por hobby desde 2014 donde estuve en proyectos relacionados a la programación de scripts de videojuegos en Ruby. Amante de leer, estudiar y enfrentarme a nuevos proyectos constantemente.
 
 
 ## 🌐 Socials:
